@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="/home/nico/Dokumente/Inkscape/Logos/OCR-app/Logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="OCR-app-logo.svg">
+  <title
+     id="title843">Logo-OCR-app</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-49.526661"
+     inkscape:cy="649.54733"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="false"
+     showborder="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Logo-OCR-app</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Nucleus-ffm</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Mondstern</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:date>1.4.2020</dc:date>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="background"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:#80b3ff;fill-opacity:1;fill-rule:nonzero;stroke:#80b3ff;stroke-width:45.36408234;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect888"
+       width="231.79814"
+       height="231.79814"
+       x="-26.192413"
+       y="30.456802" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="text"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:20.97816467;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 2.3703109,61.268277 H 187.6232"
+       id="path1043"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:21.28443146;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 2.370311,114.72217 H 187.6232"
+       id="path1045"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:19.2524929;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 2.3703109,170.84879 H 187.6232"
+       id="path1047"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:19.12756538;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 2.3703109,222.16453 H 138.7793"
+       id="path1051"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="corners"
+     style="display:inline">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 141.74107,25.61309 h 69.40185 v 76.35119"
+       id="path1031"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1033"
+       d="m 46.569457,26.369043 h -72.00253 v 75.504247"
+       style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1035"
+       d="m 42.813317,262.25496 h -69.00573 v -76.22169"
+       style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1037"
+       d="m 141.9113,262.98212 h 69.26871 v -76.47648"
+       style="fill:none;stroke:#000000;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="OCR"
+     style="display:inline">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot872"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'TeX Gyre Schola';-inkscape-font-specification:'TeX Gyre Schola';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(1.127472,0,0,1.127472,-203.77427,45.194805)"><flowRegion
+         id="flowRegion874"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Schola';-inkscape-font-specification:'TeX Gyre Schola';fill:#ffffff"><rect
+           id="rect876"
+           width="195.93759"
+           height="110.04186"
+           x="165.66502"
+           y="41.656464"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'TeX Gyre Schola';-inkscape-font-specification:'TeX Gyre Schola';fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara878"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.33333588px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff">OCR</flowPara></flowRoot>  </g>
+</svg>
