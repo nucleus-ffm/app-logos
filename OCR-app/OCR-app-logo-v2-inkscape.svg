@@ -8,13 +8,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
    version="1.1"
    id="svg874"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)"
-   sodipodi:docname="OCR-app-logo-v2.svg">
+   sodipodi:docname="OCR-app-logo-v2-inkscape.svg">
   <defs
      id="defs868">
     <linearGradient
@@ -89,9 +89,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="286.23148"
-     inkscape:cy="590.17681"
+     inkscape:zoom="1"
+     inkscape:cx="478.77612"
+     inkscape:cy="380.09367"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -111,7 +111,9 @@
      inkscape:snap-bbox-midpoints="true"
      inkscape:object-paths="true"
      inkscape:snap-intersection-paths="true"
-     showborder="false">
+     showborder="true"
+     units="mm"
+     width="200mm">
     <sodipodi:guide
        position="-331.88671,-5.2194977"
        orientation="1,0"
@@ -150,7 +152,7 @@
      style="display:inline">
     <g
        id="g895"
-       transform="translate(334.14521,11.076454)">
+       transform="matrix(0.61680415,0,0,0.61680415,237.44331,12.743094)">
       <circle
          style="display:inline;fill:#2869a8;fill-opacity:1;stroke:none;stroke-width:2.77146;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
          id="path917"
